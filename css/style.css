@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+}
+#kwadrat{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+}
+#tło{
+    height: 200px;
+    width: 200px;
+    background-image: url(images/Obrazek.jpg);
+    background-repeat: no-repeat;
+}
+
